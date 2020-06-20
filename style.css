@@ -1,0 +1,63 @@
+<style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    
+    
+    
+    header {
+      background-color: cornflowerblue;
+      padding: 30px;
+      text-align: center;
+      font-size: 35px;
+      color: white;
+    }
+    
+    
+    nav {
+      float: left;
+      width: 30%;
+      background-color: coral;
+      padding: 20px;
+    }
+    
+    
+    
+    
+    article {
+      float: left;
+      padding: 20px;
+      width: 50%;
+      background-color: darkgray;
+      
+      
+    }
+    
+    
+    
+    footer {
+      background-color: #777;
+      padding: 10px;
+      text-align: center;
+      color: white;
+    }
+    
+    
+    }
+    </style>
